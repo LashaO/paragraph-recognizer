@@ -3,7 +3,7 @@ Transcribes text from paragraph images. Built with Pytorch, TorchScript, Docker.
 
 Model weights can be downloaded from https://drive.google.com/drive/folders/1QnrqGOCIohpOTjkTCt86CrDDBXfkaeGv?usp=sharing. 
 
-Part of my work for UC Berkeley's https://fullstackdeeplearning.com/
+Part of my work for UC Berkeley's
 
 ## Build & Run
 You can run the flask web server locally or in Docker
